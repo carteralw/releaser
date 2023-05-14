@@ -1,0 +1,8 @@
+name: releaser
+on: push
+jobs:
+  echo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: echo step
+        run: echo 'hello world!'
