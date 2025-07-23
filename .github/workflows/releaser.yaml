@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: echo step
-        run: echo 'hello world from alvin!'
+        run: echo 'hello world from alvin on smaller change!'
